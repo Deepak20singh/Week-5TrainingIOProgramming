@@ -1,0 +1,11 @@
+ID,Name,Department,Salary,Email
+101,Deepak,Developer,20000,deepak@example.com
+102,Dev,Product Manager,89000,dev@example
+103,Aditya,Manager,78000,aditya@@example.com
+104,Rahul123,Software Engineer,56000,rahul@example.com
+105,Sneha,HR Manager,72000,sneha@example.com
+106,Amit,Data Scientist,95000,amit@@@example.com
+107,Neha@,Marketing Head,88000,neha.com
+108,Rohan,System Analyst,67000,rohan@.example
+109,Ananya123,UX Designer,64000,ananya@example.com
+110,Arjun,Finance Manager,74000,arjunexample.com
