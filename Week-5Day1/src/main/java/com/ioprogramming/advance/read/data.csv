@@ -1,0 +1,121 @@
+Less Tutorial
+less tutorial
+Less tutorial provides basic and advanced concepts of Less. Our Less tutorial is designed for beginners and professionals.
+
+Less is an extension of CSS. It is also known as CSS pre-processor.
+
+Our Less tutorial includes all topics of Less language such as installation, commands, script, import, mixin, inheritance, extending, variables, operators, expression etc.
+
+Less Index
+Less Tutorial
+
+Less Tutorial
+What is Less
+Features of LESS
+Advantages Disadvantages
+Less Commands
+Less Installation
+Less Example
+Lesss Comments
+Less Syntax
+Less variables
+Less Vaiable Scope
+Less Extend
+Less Nesting
+Less Importing
+Less Import options
+Less Operations
+Less Mixins
+1) Parametric Mixins
+2) Mixins as functions
+3) Passing ruleset to mixin
+Less Loops
+Less Merge
+1) Less Merge Comma
+2) Less Merge Space
+Less Parent selectors
+1) Less MP Selector
+2) Less CSOP Selector
+3) Less CEP Selectors
+Less Functions
+
+Less Functions
+Less Misc Functions
+Less String Functions
+Less List Functions
+Less Math Functions
+Less Type Functions
+Less Color Definition
+Less Color Channel
+Less Color Operation
+Less Color Blending
+Less Interview
+
+Less Interview Questions
+Prerequisite
+Before learning Less, you must have the basic knowledge of HTML and CSS.
+
+Audience
+Our Less tutorial is designed to help beginners and professionals.
+
+Problem
+We assure that you will not find any problem in this Less tutorial. But if there is any mistake, please post the problem in contact form.
+
+Next TopicWhat is LESS
+
+
+next →
+
+
+Advertisement
+Advertisement
+Related Posts
+Less variables
+Less Variables are defined with a symbol @ and the values are assigned in the variable with a colon ( : ). Variables are actually "constants" in that they can only be defined once. See this example: @nice-blue: #5B83AD; @light-blue: @nice-blue + #111; #header { color: @light-blue; } Here, nice-blue...
+
+ 1 min read
+
+1) Less MP Selector
+Multiple &amp; Parent Selector In Less, the &amp; operator is used to refer a parent selector repeatedly without using it name. So the multiple &amp; parent selector specifies that within a selector &amp; operator can be used more than once. Multiple &amp; Example Let's take an example to...
+
+ 1 min read
+
+Less Nesting
+Nesting is used to make your code follow some visual hierarchy. It makes your code, simple, clean and less complex. You must be very careful while nesting because overly nested rules may cause complexity and it proves hard to maintain. Let's take an example. Suppose you have...
+
+ 1 min read
+
+Less Parent selectors
+Less Parent Selectors In Less, the parent selectors are denoted by &amp;(ampersand) operator. The parent selectors of a nested rule are represented by &amp; operator and is most commonly used when applying a modifying class or pseudo-class to an existing selector. A list specifying the types of parent...
+
+ 2 min read
+
+2) Mixins as functions
+Less Mixins as Functions Mixins are very similar to functions. Mixins can be nested; can accept parameters and returns values. A list of mixins used as functions: Index Mixins Explanation 1) Mixin Scope Mixins contains variables. Mixins are visible and mixins can be used in caller's scope. 2) Mixin and Return Values Mixins are similar...
+
+ 1 min read
+
+Less Syntax
+Less is the most popular CSS preprocessor that extends plain CSS with programming traits like Variables, Functions or Mixin, and Operation which facilitates you to build modular, scalable, and more manageable CSS styles. Less syntax is non-standard as per W3C specification. Property declaration in Less is very...
+
+ 1 min read
+
+1) Less Merge Comma
+Less Merge Comma The Less merge comma feature is used to add property value to the very end. It appends property value with comma. Let's take an example to demonstrate the usage of merge comma feature in Less file. Create a HTML file named "simple.html", having the following data. HTML...
+
+ 1 min read
+
+Less Extend
+Extend is a feature of Less. The extend feature acts as a pseudo class which extends other selector's styles in one selector by using: extend selector. Let's take an example to see the use of extend in Less file. Create a HTML file named "simple.html", having the following...
+
+ 2 min read
+
+Advantages Disadvantages
+Advantages of Less Less is a CSS preprocessor. After compilation, it generates simple CSS which works across the browsers. Less supports cross-browser compatibility. Less codes are simple, clean and well organized because the use of nesting. Maintenance in Less can be achieved faster because the use of variables. Less provides a...
+
+ 1 min read
+
+Less Installation
+Minimum System requirement for installing Less Operating System : Cross-platform Browser Support: IE (Internet Explorer 8+), Firefox, Google Chrome, Safari. How to Install Users need Node.js to run Less examples. You must have to install Node.js to run Less examples. To install Node.js on windows, follow the instruction given below: Go...
+
+ 1 min read
