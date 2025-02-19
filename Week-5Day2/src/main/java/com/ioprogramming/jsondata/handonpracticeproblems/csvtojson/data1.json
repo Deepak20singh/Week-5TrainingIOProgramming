@@ -1,0 +1,62 @@
+[
+    {
+        "Salary": "20000",
+        "Department": "Developer",
+        "ID": "101",
+        "Name": "Deepak"
+    },
+    {
+        "Salary": "89000",
+        "Department": "Product Manager",
+        "ID": "102",
+        "Name": "Dev"
+    },
+    {
+        "Salary": "78000",
+        "Department": "Manager",
+        "ID": "103",
+        "Name": "Aditya"
+    },
+    {
+        "Salary": "56000",
+        "Department": "Software Engineer",
+        "ID": "104",
+        "Name": "Rahul"
+    },
+    {
+        "Salary": "72000",
+        "Department": "HR Manager",
+        "ID": "105",
+        "Name": "Sneha"
+    },
+    {
+        "Salary": "20000",
+        "Department": "Developer",
+        "ID": "101",
+        "Name": "Deepak"
+    },
+    {
+        "Salary": "95000",
+        "Department": "Data Scientist",
+        "ID": "106",
+        "Name": "Amit"
+    },
+    {
+        "Salary": "89000",
+        "Department": "Product Manager",
+        "ID": "102",
+        "Name": "Dev"
+    },
+    {
+        "Salary": "88000",
+        "Department": "Marketing Head",
+        "ID": "107",
+        "Name": "Neha"
+    },
+    {
+        "Salary": "67000",
+        "Department": "System Analyst",
+        "ID": "108",
+        "Name": "Rohan"
+    }
+]
